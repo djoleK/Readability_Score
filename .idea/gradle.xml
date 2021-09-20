@@ -13,6 +13,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Readability Score/task" />
+            <option value="$PROJECT_DIR$/Topics/Linear search in Java/Count elements of an array in another one" />
+            <option value="$PROJECT_DIR$/Topics/Linear search in Java/Does the array contain the element?" />
+            <option value="$PROJECT_DIR$/Topics/Linear search in Java/Search indexes of values in another array" />
+            <option value="$PROJECT_DIR$/Topics/Linear search in Java/The first occurrence in the subarray" />
+            <option value="$PROJECT_DIR$/Topics/Linear search in Java/The index of the K occurrence" />
+            <option value="$PROJECT_DIR$/Topics/Linear search in Java/The index of the last occurrence" />
+            <option value="$PROJECT_DIR$/Topics/Linear search in Java/The number of occurrences" />
+            <option value="$PROJECT_DIR$/Topics/Linear search in Java/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
